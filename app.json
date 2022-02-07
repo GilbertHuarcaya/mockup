@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mockup",
+    "slug": "mockup",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mockup"
+}
